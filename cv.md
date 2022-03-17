@@ -14,7 +14,28 @@ I have curiosity to get Front-End skills to be an fullstack holder.
 - JavaScript (Fundamentals,Functional Programming, DOM), JQuery.
 
 ## Code example
-
+```
+function highAndLow(numbers){
+  let splitted_numbers = numbers.split(" ");
+  
+  let min = splitted_numbers[0];
+  let max = splitted_numbers[0];
+  
+  for (const num_str of splitted_numbers) {
+      let num = parseInt(num_str);
+      
+      if (num > max) {
+          max = num;
+          console.log(`max = ${max}`);
+      }
+      
+      if (num < min) {
+          min = num;
+          console.log(`min = ${min}`);
+      }
+  }
+}
+```
 
 ## Experience
 work as a developer
