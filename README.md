@@ -1,3 +1,3 @@
 # rsschool-cv
-[1. Markdown & Git](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md)<br/>
-[2. HTML, CSS & Git Basics](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md)
+[1. Markdown & Git](https://AbdukodirSoliev.github.io/rsschool-cv/cv)<br/>
+[2. HTML, CSS & Git Basics](https://AbdukodirSoliev.github.io/rsschool-cv/cv)
