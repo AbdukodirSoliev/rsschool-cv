@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   display: flex;
   flex-direction: column;
@@ -22,10 +26,6 @@ body {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-}
-
-html {
-  scroll-behavior: smooth;
 }
 
 .nav-list {
@@ -71,6 +71,11 @@ html {
   flex-wrap: wrap;
 }
 
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .section {
   width: 50%;
 }
@@ -110,16 +115,4 @@ html {
   background-image: url("./assets/svg/rss.svg");
   background-size: contain;
   background-repeat: no-repeat;
-}
-
-header {
-  border: 1px solid red;
-}
-
-main {
-  border: 1px solid orange;
-}
-
-footer {
-  border: 1px solid green;
 }
